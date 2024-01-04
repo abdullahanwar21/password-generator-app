@@ -1,0 +1,13 @@
+main {
+    background-color: #212121;
+    height: 100vh;
+    color: aliceblue;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+Form.Control{
+    cursor: pointer;
+}
